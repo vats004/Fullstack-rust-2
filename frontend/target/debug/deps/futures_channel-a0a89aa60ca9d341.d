@@ -1,0 +1,10 @@
+/Users/dev/rust-fullstack-app-main/frontend/target/debug/deps/libfutures_channel-a0a89aa60ca9d341.rmeta: /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/lib.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/lock.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/mpsc/mod.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/mpsc/queue.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/mpsc/sink_impl.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/oneshot.rs
+
+/Users/dev/rust-fullstack-app-main/frontend/target/debug/deps/futures_channel-a0a89aa60ca9d341.d: /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/lib.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/lock.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/mpsc/mod.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/mpsc/queue.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/mpsc/sink_impl.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/oneshot.rs
+
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/lib.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/lock.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/mpsc/mod.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/mpsc/queue.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/mpsc/sink_impl.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-channel-0.3.30/src/oneshot.rs:

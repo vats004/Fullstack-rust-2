@@ -1,0 +1,11 @@
+/Users/dev/rust-fullstack-app-main/frontend/target/debug/deps/libgloo_worker-bbc180e67053dff2.rmeta: /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/lib.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/link.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/pool.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/mod.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/private.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/public.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/queue.rs
+
+/Users/dev/rust-fullstack-app-main/frontend/target/debug/deps/gloo_worker-bbc180e67053dff2.d: /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/lib.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/link.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/pool.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/mod.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/private.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/public.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/queue.rs
+
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/lib.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/link.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/pool.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/mod.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/private.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/public.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-0.1.2/src/worker/queue.rs:

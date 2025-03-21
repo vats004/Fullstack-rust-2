@@ -1,0 +1,11 @@
+/Users/dev/rust-fullstack-app-main/frontend/target/debug/deps/libgloo_net-33f3baf9c5be3b05.rmeta: /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/lib.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/error.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/http/mod.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/http/headers.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/websocket/mod.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/websocket/events.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/websocket/futures.rs
+
+/Users/dev/rust-fullstack-app-main/frontend/target/debug/deps/gloo_net-33f3baf9c5be3b05.d: /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/lib.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/error.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/http/mod.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/http/headers.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/websocket/mod.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/websocket/events.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/websocket/futures.rs
+
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/lib.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/error.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/http/mod.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/http/headers.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/websocket/mod.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/websocket/events.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-net-0.1.0/src/websocket/futures.rs:
