@@ -1,0 +1,12 @@
+/Users/dev/fullstack-rust-2/backend/target/debug/deps/libstate-f38f374cfbce38bc.rmeta: /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs
+
+/Users/dev/fullstack-rust-2/backend/target/debug/deps/libstate-f38f374cfbce38bc.rlib: /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs
+
+/Users/dev/fullstack-rust-2/backend/target/debug/deps/state-f38f374cfbce38bc.d: /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs
+
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs:
