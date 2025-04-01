@@ -1,5 +1,5 @@
 
-# Full-Stack Rust Web Application
+# LoggedIn v2
 
 This is a simple full-stack web application built using Rust for both the frontend and backend. The application includes a frontend built with Yew, a backend using Rocket, and a PostgreSQL database running in Docker.
 
